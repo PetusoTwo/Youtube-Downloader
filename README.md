@@ -21,5 +21,3 @@ Puedes instalar las bibliotecas necesarias usando `pip`:
 
 ```bash
 pip install PyQt6 pytube
-
-
