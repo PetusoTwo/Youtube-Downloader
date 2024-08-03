@@ -17,6 +17,27 @@ Esta aplicación utiliza PyQt6 para proporcionar una interfaz gráfica que permi
 - PyQt6
 - pytube
 
+  ## Uso
+
+### Interfaz de Usuario
+
+1. **Ingresar Enlace de YouTube:**
+   - Introduce el enlace del video de YouTube que deseas convertir en el campo de texto correspondiente.
+
+2. **Elegir Ruta de Destino:**
+   - Haz clic en el botón para seleccionar la carpeta donde se guardará el archivo MP3 convertido.
+
+3. **Convertir a MP3:**
+   - Haz clic en el botón para iniciar la conversión. La aplicación descargará el video en formato MP4 y lo convertirá a MP3 en la ruta seleccionada.
+
+### Ejecución
+
+- Ejecuta el script de Python para iniciar la aplicación.
+
+```bash
+python nombre_del_script.py
+
+
 Puedes instalar las bibliotecas necesarias usando `pip`:
 
 ```bash
