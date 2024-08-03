@@ -34,10 +34,6 @@ Esta aplicación utiliza PyQt6 para proporcionar una interfaz gráfica que permi
 
 - Ejecuta el script de Python para iniciar la aplicación.
 
-```bash
-python nombre_del_script.py
-
-
 Puedes instalar las bibliotecas necesarias usando `pip`:
 
 ```bash
